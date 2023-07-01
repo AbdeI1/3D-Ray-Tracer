@@ -1,0 +1,7 @@
+.vscode
+.vs
+out
+build
+*.exe
+*.input
+*.ppm
