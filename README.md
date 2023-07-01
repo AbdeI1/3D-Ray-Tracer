@@ -27,6 +27,6 @@ There are several other keywords which are supported in the input. Look at
 
 ## Sample Image
 
-Here is the example image created by feeing `SampleImage.input` into the raytracer executable.
+Here is the example image created by feeing `SampleImage.input` into the raytracer executable (output image type is ppm, converted to png to show on github).
 
-![Sample Image](./SampleImage.ppm)
+![Sample Image](./SampleImage.png)
