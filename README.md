@@ -24,3 +24,9 @@ the output image.
 
 There are several other keywords which are supported in the input. Look at
 `SampleImage.input` for an example of the input file format.
+
+## Sample Image
+
+Here is the example image created by feeing `SampleImage.input` into the raytracer executable.
+
+![Sample Image](./SampleImage.ppm)
